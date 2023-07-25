@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krAnkit2000/Todo-List.git/static/css/main.37235781.css",
+    "main.js": "/krAnkit2000/Todo-List.git/static/js/main.755e6cf2.js",
+    "static/js/787.a5cad257.chunk.js": "/krAnkit2000/Todo-List.git/static/js/787.a5cad257.chunk.js",
+    "index.html": "/krAnkit2000/Todo-List.git/index.html",
+    "main.37235781.css.map": "/krAnkit2000/Todo-List.git/static/css/main.37235781.css.map",
+    "main.755e6cf2.js.map": "/krAnkit2000/Todo-List.git/static/js/main.755e6cf2.js.map",
+    "787.a5cad257.chunk.js.map": "/krAnkit2000/Todo-List.git/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37235781.css",
+    "static/js/main.755e6cf2.js"
+  ]
+}
